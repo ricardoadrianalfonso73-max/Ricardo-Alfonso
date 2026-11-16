@@ -1,0 +1,6 @@
+{
+  "name": "Electro Tecno",
+  "description": "Tienda online de celulares nuevos y usados, accesorios y servicio técnico especializado con estética Tech Nocturno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
