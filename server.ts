@@ -3,7 +3,7 @@ import express from 'express';
 import fs from 'fs';
 import path from 'path';
 import { createServer as createViteServer } from 'vite';
-import { apiRouter } from './server/routes/api.ts';
+import { apiRouter } from './backend/src/routes/api.ts';
 
 async function startServer() {
   const app = express();
